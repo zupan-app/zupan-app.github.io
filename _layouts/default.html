@@ -25,14 +25,20 @@
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <div id="main" role="main">
         <div class="download-bar">
-        <div class="inner">
-          {{ site.idea.question }} <a href="{{ site.idea.link }}" class="idea">{{ site.idea.title }}</a>
-        </div>
-        <span class="blc"></span><span class="trc"></span>
+          <div class="inner">
+            {{ site.idea.question }} <a href="{{ site.idea.link }}" class="idea">{{ site.idea.title }}</a>
+          </div>
+          <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
           {{ content }}
         </article>
+        <div class="download-bar">
+          <div class="inner">
+            {{ site.idea.question }} <a href="{{ site.idea.link }}" class="idea">{{ site.idea.title }}</a>
+          </div>
+          <span class="blc"></span><span class="trc"></span>
+        </div>
       </div>
     </div>
     <footer>
