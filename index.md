@@ -1,3 +1,5 @@
+If you can help: [fill the form](https://tinyurl.com/zupan-form) 😊 🙏🏼
+
 ## Introduction
 
 I love TikTok and it breaks my heart to see that what makes this project so great is at risk through a ban
@@ -17,4 +19,6 @@ unique views on life, etc.
 * Protection for creators to allow removal of their content or sounds
 * Pay creators and musicians
 * Transparency
+
+
 
