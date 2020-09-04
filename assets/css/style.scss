@@ -18,20 +18,18 @@ h1.title {
   background: #64ffcf;
   .inner {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
     align-items: center;
     line-height: 11px;
     font-size: 16px;
     color: #ff00af;
     font-weight: bold;
-    div {
-      margin-right: 10px;
-    }
-    .follow {
+    .answer {
+      margin: 0 10px;
       color: #666;
       font-weight: normal;
     }
-    .follow_link {
+    .link {
     }
   }
 }
