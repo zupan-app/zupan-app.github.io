@@ -24,3 +24,16 @@ h1.title {
 .current-section {
   display: none;
 }
+
+.markdown-body {
+  color: #444;
+  h1, h2 {
+    color: #666;
+  }
+  h1 {
+    font-size: 36px;
+  }
+  h2 {
+    font-size: 28px
+  }
+}
