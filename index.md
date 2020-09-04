@@ -1,4 +1,4 @@
-If you can help: [fill the form](https://tinyurl.com/zupan-form) 😊 🙏🏼
+If you can help or want to stay informed by email: [fill the form](https://tinyurl.com/zupan-form) 😊 🙏🏼
 
 ## Introduction
 
