@@ -27,6 +27,9 @@ h1.title {
       display: flex;
       align-items: center;
     }
+    a {
+      color: inherit;
+    }
     .answer {
       margin: 0 10px;
       color: #666;
