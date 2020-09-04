@@ -1,4 +1,4 @@
-## Why
+## What ?
 
 I love TikTok 💖 and it breaks my heart to see that what makes this project so great is at risk. Whether it is a
 ban, the purchase by a big company or the intervention of a state, our content and relations to one another are
@@ -8,18 +8,18 @@ With the challenging times ahead of us I think it is crucial that we master how 
 connected and how we want to share our ideas, enchantments, hard and joyfull times, talents in the making,
 unique views on life, etc.
 
-## What is unique about TikTok
+## Why ?
 
 The algorithm in this app allows people to connect without having ever interacted together before and without
 even knowing that they would enjoy connecting.
 
 For example, I discovered many videos from disabled people talking about their lives, struggles and unique
-perspective on things. Outside of TikTok, I would not even know where to look for these people. And this is
-without all the other people, members of the LGBTQ+, witches, dancers, skaters, makeup artists, tailors,
+perspective on things. Outside of TikTok, I would not even know where to look for these people. The same goes
+for members of the LGBTQ+ community, witches, dancers, skaters, makeup artists, tailors,
 sculptors, paintors, mentally ill people, black lives advocates, body positive people, parents, scientits,
-plant lovers, cosplay, etc, etc.
+plant lovers, cosplay, etc.
 
-The richness of the people is unique and we should preserve and nurture this !
+We are **incredible** and **diverse** and **beautiful** and we should know about it and nurture this !
 
 ## Some things to discuss
 
