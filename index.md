@@ -19,7 +19,7 @@ for members of the LGBTQ+ community, witches, dancers, skaters, makeup artists, 
 sculptors, paintors, mentally ill people, black lives advocates, body positive people, parents, scientits,
 plant lovers, cosplay, etc.
 
-We are **incredible** and **diverse** and **beautiful** and we should know about it and nurture this !
+We are **incredible** and **diverse** and **beautiful** and we should know about it and nurture this feeling !
 
 ## Some things to discuss
 
