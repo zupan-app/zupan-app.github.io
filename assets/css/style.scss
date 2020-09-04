@@ -3,6 +3,20 @@
 
 @import "{{ site.theme }}";
 
+@media (max-width: 600px) {
+  .wrapper {
+    width: auto;
+    margin: 0 20px;
+  }
+}
+
+@media (min-width: 600px) {
+  .wrapper {
+    width: 660px;
+    margin: 0 auto;
+  }
+}
+
 h1.title {
   color: #868686;
   font-family: fantasy;
