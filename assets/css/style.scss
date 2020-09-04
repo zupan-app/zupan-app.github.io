@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background: #555;
+}
+
 .wrapper {
   width: 660px;
   margin: 0 auto;
