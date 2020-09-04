@@ -8,7 +8,7 @@ help:
   title: Fill the form !
 follow:
   link: https://www.instagram.com/zupan_app
-  title: Follow ➡️
+  title: Follow
   image: <img src="/assets/insta.png" class="insta"/>
 contact:
   link: https://lilybucher.com
