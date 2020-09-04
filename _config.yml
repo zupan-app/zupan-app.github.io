@@ -3,13 +3,15 @@ title: zupan
 description: Let's create a community owned TikTok clone !
 idea:
   question: Like the idea ?
-help:
-  link: https://tinyurl.com/zupan-form
-  title: Fill the form !
-follow:
+  answer: Follow
   link: https://www.instagram.com/zupan_app
-  title: Follow
-  image: <img src="/assets/insta.png" class="insta"/>
+  image: <img src="/assets/insta.png" class="link"/>
+help:
+  question: You can help ?
+  answer: Fill the form
+  link: https://tinyurl.com/zupan-form
+  image: <img src="/assets/form.png" class="link"/>
+follow:
 contact:
   link: https://lilybucher.com
   title: Lily Bucher
