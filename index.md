@@ -1,35 +1,19 @@
-## Zupan (community TikTok clone)
+## Introduction
 
-Site in construction...
+I love TikTok and it breaks my heart to see that what makes this project so great is at risk through a ban
+or the buy from companies that will transform this place into another marketplace.
 
-### Markdown
+With the challenging times ahead of us I think it is crucial that we are the masters of how we want to stay
+connected and how we want to share our ideas, enchantments, hard and joyfull times, talents in the making,
+unique views on life, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Some things to discuss
 
-```markdown
-Syntax highlighted code block
+* Visibility for minorities
+* Connection for people outside the norm
+* Voice for invisible people
+* No ban or silencing of indigenous voices
+* Proper moderation of content (no hate, no specialisation of minors, protecting of creators to remove their content or sounds)
+* Pay creators and musicians
+* Transparency
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucidogen/zupan-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
