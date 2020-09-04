@@ -3,13 +3,6 @@
 
 @import "{{ site.theme }}";
 
-@media (max-width: 700px) {
-  .wrapper {
-    width: auto;
-    margin: 0 20px;
-  }
-}
-
 .wrapper {
   width: 660px;
   margin: 0 auto;
@@ -48,5 +41,13 @@ h1.title {
   }
   h2 {
     font-size: 28px
+  }
+}
+
+
+@media (max-width: 700px) {
+  .wrapper {
+    width: auto;
+    margin: 0 20px;
   }
 }
