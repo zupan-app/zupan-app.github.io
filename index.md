@@ -13,7 +13,8 @@ unique views on life, etc.
 * Connection for people outside the norm
 * Voice for invisible people
 * No ban or silencing of indigenous voices
-* Proper moderation of content (no hate, no specialisation of minors, protecting of creators to remove their content or sounds)
+* Proper moderation of content (no hate, no sexualisation of minors)
+* Protection for creators to allow removal of their content or sounds
 * Pay creators and musicians
 * Transparency
 
