@@ -19,13 +19,13 @@ h1.title {
   .inner {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     line-height: 11px;
     font-size: 16px;
     color: #ff00af;
     font-weight: bold;
     &>div {
       display: flex;
+      align-items: center;
     }
     .answer {
       margin: 0 10px;
