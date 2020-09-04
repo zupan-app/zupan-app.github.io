@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1.title {
+  color: #868686;
+  font-family: fantasy;
+}
+
+.download-bar {
+  background: #64ffcf;
+  .inner {
+    font-size: 16px;
+    color: #ff00af;
+    font-weight: bold;
+  }
+}
