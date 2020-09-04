@@ -32,5 +32,8 @@ The richness of the people is unique and we should preserve and nurture this !
 * Pay creators and musicians
 * Transparency
 
+## Why "zupan"
+
+The name comes from the "mipan zuzuzu" meme. It also means "love all" (zu pan) in keoda, a constructed language.
 
 
