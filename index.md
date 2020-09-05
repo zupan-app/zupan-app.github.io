@@ -33,25 +33,10 @@ We are **incredible** and **diverse** and **beautiful** and we should know about
 4. Build the app (open source)
 5. Enjoy !
 
-## About me
-
-My dream is to dance and sing but I cannot do this right now (transitioning). In August 2020, I had a powerful call
-to launch this project. I will lead this project until is it alive... and leave.
-
-I am a Swiss artist, coder and entrepreneur living in the mountains. You can find details [here](https://www.lilybucher.com/).
-
-## Values
-
-* Moderation of content (no hate, no sexualisation of minors)
-* Protection for creators (allow them to remove their content or sounds, even after duet)
-* Fair payment to creators and musicians (maybe add music streaming in-app)
-* Transparency (no shadow ban, transparent AI, transparent moderation rules)
-* Privacy (cryptography for communication in-app)
-
 ## Why "zupan" ?
 
 The name comes from the [mipan zuzuzu](https://www.tiktok.com/foryou?lang=en#/@awa_de_horchata_uwu/video/6849216781303827717) meme. It
-also means "love all" (zu pan) in keoda, a constructed language that I am working on.
+also means "gratitude" (zu pan = love all) in keoda, a constructed language that I am working on.
 
 ## Talents needed !
 
