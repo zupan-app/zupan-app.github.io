@@ -61,7 +61,7 @@ Here is a list of some these things that we will need to discuss if we want **zu
 * Transparency (no shadow ban, transparent AI, transparent moderation rules)
 * Cryptography (private communication in-app)
 
-## Why "zupan"
+## Why "zupan" ?
 
 The name comes from the [mipan zuzuzu](https://www.tiktok.com/foryou?lang=en#/@awa_de_horchata_uwu/video/6849216781303827717) meme. It
 also means "love all" (zu pan) in keoda, a constructed language that I am working on.
