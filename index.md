@@ -38,7 +38,7 @@ We are **incredible** and **diverse** and **beautiful** and we should know about
 My dream is to dance and sing but I cannot do this right now (transitioning). In August 2020, I had a powerful call
 to launch this project. I will lead this project until is it alive... and leave.
 
-I am a Swiss artist, coder and entrepreneur living in the mountains. You can find details here: [lilybucher.com](https://www.lilybucher.com/).
+I am a Swiss artist, coder and entrepreneur living in the mountains. You can find details [here](https://www.lilybucher.com/).
 
 ## Values
 
