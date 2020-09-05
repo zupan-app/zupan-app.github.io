@@ -21,8 +21,6 @@ a {
 }
 
 p.highlight, p.tagline {
-  margin: 0 -20px; 
-  padding: 23px 20px;
   font-size: 28px;
   font-weight: bold;
   color: #fd00af9e;
@@ -30,8 +28,13 @@ p.highlight, p.tagline {
   text-align: center;
 }
 
+p.tagline {
+  margin: 0;
+}
 p.highlight {
   background: #ddd url(../images/pattern.png);
+  padding: 23px 20px;
+  margin: 0 -20px; 
 }
 
 h1.title {
