@@ -40,19 +40,7 @@ to launch this project. I will lead this project until is it alive... and leave.
 
 I am a Swiss artist, coder and entrepreneur living in the mountains. You can find details here: [lilybucher.com](https://www.lilybucher.com/).
 
-## Talents needed !
-
-Right now, we need people with connections or experience in creating an app like this one (AI, database, hosting, mobile, video, etc) to
-discuss together on how to proceed.
-
-Please fill the [Google form](https://tinyurl.com/zupan-form) 😊
-
-
-<p class="highlight">We need you !</p>
-
 ## Values
-
-Here is a list of some these things that we will need to discuss if we want **zupan** to be a better TikTok.
 
 * Moderation of content (no hate, no sexualisation of minors)
 * Protection for creators (allow them to remove their content or sounds, even after duet)
@@ -65,6 +53,14 @@ Here is a list of some these things that we will need to discuss if we want **zu
 The name comes from the [mipan zuzuzu](https://www.tiktok.com/foryou?lang=en#/@awa_de_horchata_uwu/video/6849216781303827717) meme. It
 also means "love all" (zu pan) in keoda, a constructed language that I am working on.
 
-<p class="highlight">Love</p>
+## Talents needed !
+
+Right now, we need people with connections or experience in creating an app like this one (AI, database, hosting, mobile, video, etc) to
+discuss together on how to proceed.
+
+Please fill the [Google form](https://tinyurl.com/zupan-form) 😊
+
+
+<p class="highlight">We need you !</p>
 
 
