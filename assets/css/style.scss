@@ -20,21 +20,8 @@ a {
   box-shadow: 0 0 15px #f3698c54;
 }
 
-p.highlight, p.tagline {
-  font-size: 28px;
-  font-weight: bold;
-  color: #fd00af9e;
-  text-shadow: 2px 2px 0px #e4ff00;
-  text-align: center;
-}
-
-p.tagline {
-  margin: 0;
-}
-p.highlight {
-  background: #ddd url(../images/pattern.png);
-  padding: 23px 20px;
-  margin: 0 -20px; 
+#main {
+  padding: 0 20px;
 }
 
 h1.title {
@@ -109,7 +96,25 @@ h1.title {
   }
 }
 
+p.highlight, p.tagline {
+  font-size: 28px;
+  font-weight: bold;
+  color: #fd00af9e;
+  text-shadow: 2px 2px 0px #e4ff00;
+  text-align: center;
+}
+
+p.tagline {
+  margin: 0;
+}
+p.highlight {
+  background: #ddd url(../images/pattern.png);
+  padding: 23px 20px;
+  margin: 0 -20px; 
+}
+
 footer {
+  margin-top: 50px;
   color: #666;
   .owner {
     background: #ddd url(../images/pattern.png);
