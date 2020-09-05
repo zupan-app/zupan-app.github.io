@@ -35,6 +35,7 @@ h1.title {
     font-weight: bold;
     &>div {
       display: flex;
+      justify-content: center;
       align-items: center;
       padding: 3px 6px;
       width: 50%;
@@ -50,7 +51,7 @@ h1.title {
       color: inherit;
     }
     .answer {
-      margin: 0 6px;
+      margin: 0 6px 0 12px;
       color: #666;
       font-weight: normal;
     }
@@ -97,6 +98,9 @@ footer {
 
 
 @media (max-width: 700px) {
+  .answer {
+    margin-left: 6px;
+  }
   .wrapper {
     width: auto;
     margin: 0 20px;
