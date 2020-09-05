@@ -33,9 +33,9 @@ We are **incredible** and **diverse** and **beautiful** and we should know about
 4. Build the app (open source)
 5. Enjoy !
 
-## Why "zupan" ?
+## "zupan" ?
 
-The name comes from the [mipan zuzuzu](https://www.tiktok.com/foryou?lang=en#/@awa_de_horchata_uwu/video/6849216781303827717) meme. It
+The name comes from the [mipan zuzuzu meme](https://www.tiktok.com/foryou?lang=en#/@awa_de_horchata_uwu/video/6849216781303827717). It
 also means "gratitude" (zu pan = love all) in keoda, a constructed language that I am working on.
 
 ## Talents needed !
