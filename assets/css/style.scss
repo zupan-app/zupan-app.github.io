@@ -46,10 +46,16 @@ h1.title {
       filter: hue-rotate(30deg);
     }
     .idea {
-      background: #64ffcf;
+      background: #f3698c;
+      .question {
+        color: #e4ff04;
+      }
     }
     .help {
       background: #e4ff04;
+      .question {
+        color: #f3698c;
+      }
       border-left: 1px solid #333;
     }
     a {
