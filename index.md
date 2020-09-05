@@ -40,7 +40,7 @@ accumulated a lot of experience in software, AI, database and project management
 maybe I can do one last project before I embrace art as my only job.
 
 I am a Swiss entrepreneur and artist living in the mountains. You can find details on who I am here: [lilybucher.com](https://www.lilybucher.com/)
-or on [github](https://github.com/gaspard) and [lucidogen](https://github.com/lucidogen). I am currently working on [Sarigama](https://www.sarigama-music.com/),
+or on [github](https://github.com/gaspard). I am currently working on [Sarigama](https://www.sarigama-music.com/),
 an app for music schools. I have done 20 years of performance art but have removed all this content from the web as it triggers dysphoria.
 
 My goal is to create a non-profit organization managed by the community. I will lead and leave.
