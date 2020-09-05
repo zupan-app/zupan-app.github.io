@@ -40,8 +40,7 @@ also means "gratitude" (zu pan = love all) in keoda, a constructed language that
 
 ## Talents needed !
 
-Right now, we need people with connections or experience in creating an app like this one (AI, database, hosting, mobile, video, etc) to
-discuss together on how to proceed.
+Crowdfunding, budget, ethics and values, promotion, networking, server code, client code, database, AI, etc
 
 Please fill the [Google form](https://tinyurl.com/zupan-form) 😊
 
