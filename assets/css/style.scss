@@ -34,11 +34,15 @@ h1.title {
     color: #ff00af;
     font-weight: bold;
     &>div {
+      cursor: pointer;
       display: flex;
       justify-content: center;
       align-items: center;
       padding: 3px 6px;
       width: 50%;
+    }
+    &>div:hover {
+      filter: saturation(90%);
     }
     .idea {
       background: #64ffcf;
