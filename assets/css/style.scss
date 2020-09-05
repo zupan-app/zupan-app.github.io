@@ -33,7 +33,7 @@ h1.title {
 
 .download-bar {
   padding: 0;
-  box-shadow: 5px 5px 10px #666;
+  box-shadow: 5px 5px 10px #0000005c;
   .inner {
     display: flex;
     justify-content: space-between;
@@ -76,10 +76,6 @@ h1.title {
     .link {
     }
   }
-}
-
-.download-bar:last-child {
-  box-shadow: 5px 5px 10px #0000005c;
 }
 
 .current-section {
