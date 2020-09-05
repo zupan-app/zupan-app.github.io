@@ -1,19 +1,15 @@
 <div class="download-bar">
   <div class="inner">
-    <div class="idea">
-      <a href="{{ site.idea.link }}">
-        <div class="question">{{ site.idea.question }}</div>
-        <div class="answer">{{ site.idea.answer }}</a></div>
-        <div class="link">{{ site.idea.image }}</div>
-      </a>
+    <div class="idea" onclick="location.href='{{ site.idea.link }}'">
+      <div class="question">{{ site.idea.question }}</div>
+      <div class="answer">{{ site.idea.answer }}</a></div>
+      <div class="link"><a href="{{ site.idea.link }}">{{ site.idea.image }}</a></div>
     </div>
     
-    <div class="help">
-      <a href="{{ site.help.link }}">
-        <div class="question">{{ site.help.question }}</div>
-        <div class="answer">{{ site.help.answer }}</div>
-        <div class="link">{{ site.help.image }}</div>
-      </a>
+    <div class="help" onclick="location.href='{{ site.help.link }}'">
+      <div class="question">{{ site.help.question }}</div>
+      <div class="answer">{{ site.help.answer }}</div>
+      <div class="link"><a href="{{ site.help.link }}">{{ site.help.image }}</a></div>
     </div>
   </div>
   <span class="blc"></span><span class="trc"></span>
