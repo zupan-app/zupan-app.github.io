@@ -90,6 +90,16 @@ h1.title {
   h2 {
     font-size: 28px
   }
+  p.highlight {
+    background: #ddd url(../images/pattern.png);
+    margin: 0 -20px;
+    padding: 23px 20px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #fd00af9e;
+    text-shadow: 2px 2px 0px #e4ff00;
+    text-align: center;
+  }
 }
 
 footer {
