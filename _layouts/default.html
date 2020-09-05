@@ -30,15 +30,15 @@
         </article>
         {% include bar.html %}
       </div>
+      <footer>
+        <div class="owner">
+          Contact: <a href="{{ site.contact.link }}">{{ site.contact.title }}</a>
+        </div>
+        <div class="creds">
+          <small>Theme adapted from <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
+        </div>
+      </footer>
     </div>
-    <footer>
-      <div class="owner">
-        Contact: <a href="{{ site.contact.link }}">{{ site.contact.title }}</a>
-      </div>
-      <div class="creds">
-        <small>Theme adapted from <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
-      </div>
-    </footer>
   </div>
   <div class="current-section">
      {{ site.idea.question }} <a href="{{ site.idea.link }}" class="idea">{{ site.idea.title }}</a>
