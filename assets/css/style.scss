@@ -28,6 +28,7 @@ a {
 }
 
 #container {
+  margin-bottom: 150px;
   box-shadow: 0 0 15px #f3698c54;
 }
 
@@ -126,9 +127,11 @@ p.highlight {
 
 footer {
   margin-top: 50px;
+  margin-bottom: 0;
+  padding-bottom: 0;
   color: #666;
   .owner {
-    background: #ddd url(../images/pattern.png);
+    background: none;
     margin: -50px 0 0;
     border: none;
     padding: 15px;
@@ -138,6 +141,9 @@ footer {
     }
   }
   .creds {
+    a {
+      color: #222;
+    }
   }
 }
 
