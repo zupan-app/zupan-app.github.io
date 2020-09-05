@@ -8,7 +8,7 @@ front website) and not in the future (see who wants to buy it).
 With the challenging times ahead of us I think it is important that we stay connected and share our ideas,
 enchantments, hard and joyfull times, talents in the making, unique views on life, etc.
 
-<p class="highlight">♥ We need a place to share real life ♥</p>
+<p class="highlight">We need a place to share real life</p>
 
 ## Why ?
 
@@ -22,6 +22,8 @@ sculptors, painters, mentally ill people, black lives advocates, body positive p
 plant lovers, cosplay, musicians, comedians, etc.
 
 We are **incredible** and **diverse** and **beautiful** and we should know about it and nurture this feeling !
+
+<p class="highlight">We need to show our love</p>
 
 ## Plan
 
@@ -45,6 +47,9 @@ discuss together on how to proceed.
 
 Please fill the [Google form](https://tinyurl.com/zupan-form) 😊
 
+
+<p class="highlight">We need you !</p>
+
 ## Values
 
 Here is a list of some these things that we will need to discuss if we want **zupan** to be a better TikTok.
@@ -59,5 +64,7 @@ Here is a list of some these things that we will need to discuss if we want **zu
 
 The name comes from the [mipan zuzuzu](https://www.tiktok.com/foryou?lang=en#/@awa_de_horchata_uwu/video/6849216781303827717) meme. It
 also means "love all" (zu pan) in keoda, a constructed language that I am working on.
+
+<p class="highlight">Love</p>
 
 
