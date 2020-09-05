@@ -36,14 +36,14 @@ We are **incredible** and **diverse** and **beautiful** and we should know about
 ## My role
 
 My dream is to dance and sing but I cannot do this right now (I am going through gender transition). Since I have
-accumulated a lot of experience in software, AI, database and project management through more then 30 years of coding, I thought
+accumulated a lot of experience in software, AI, database and project management through more than 30 years of coding, I thought
 maybe I can do one last project before I embrace art as my only job.
 
-You can find details on who I am here: [lilybucher.com](https://www.lilybucher.com/)
+I am a Swiss entrepreneur and artist living in the mountains. You can find details on who I am here: [lilybucher.com](https://www.lilybucher.com/)
 or on [github](https://github.com/gaspard) and [lucidogen](https://github.com/lucidogen). I am currently working on [Sarigama](https://www.sarigama-music.com/),
 an app for music schools. I have done 20 years of performance art but have removed all this content from the web as it triggers dysphoria.
 
-My goal is to create a non-profit organization managed by the community: I will lead and I will leave.
+My goal is to create a non-profit organization managed by the community. I will lead and leave.
 
 ## Talents needed !
 
