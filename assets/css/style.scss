@@ -29,13 +29,16 @@ h1.title {
   .inner {
     display: flex;
     justify-content: space-between;
-    line-height: 11px;
+    line-height: 16px;
     font-size: 16px;
     color: #ff00af;
     font-weight: bold;
     &>div {
       display: flex;
       align-items: center;
+    }
+    .help {
+      margin-left: 10px;
     }
     a {
       color: inherit;
