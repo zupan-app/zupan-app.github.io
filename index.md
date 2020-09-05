@@ -43,7 +43,7 @@ You can find details on who I am here: [lilybucher.com](https://www.lilybucher.c
 or on [github](https://github.com/gaspard) and [lucidogen](https://github.com/lucidogen). I am currently working on [Sarigama](https://www.sarigama-music.com/),
 an app for music schools. I have done 20 years of performance art but have removed all this content from the web as it triggers dysphoria.
 
-The goal is to create a non-profit organization managed by the community: I will lead and I will leave.
+My goal is to create a non-profit organization managed by the community: I will lead and I will leave.
 
 ## Talents needed !
 
